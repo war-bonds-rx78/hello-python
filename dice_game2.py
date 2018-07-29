@@ -5,6 +5,7 @@ def dice() :
     num = randint(1, 6)
     return num
 
+# コメント追加
 def dicegame() :
     dice1 = dice()
     dice2 = dice()
