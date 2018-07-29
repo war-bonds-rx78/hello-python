@@ -17,6 +17,7 @@ def dicegame() :
     else :
         print(f"{dice1}と{dice2}の合計は{sum}, 奇数")
 
+# コメント追加
 for i in range(5) : 
     dicegame()
 print("ゲーム終了")
